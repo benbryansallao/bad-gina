@@ -2,3 +2,14 @@ body {
   margin:0 auto;
   padding:0px;
 }
+.container{
+  width:100%;
+  padding:0px;
+  margin:auto;
+}
+button{
+  padding:10px;
+  font-family:Arial;
+  font-size:1em;
+  color:#fff;
+}
